@@ -1,0 +1,9 @@
+#sample sanp_config.yaml file,this file generated automatically,when we run utility
+---
+hosts:
+    - device: XXXXXX
+      username: XXXXXX
+      passwd: XXXXXX
+
+tests:
+    -  ./command_config.yaml

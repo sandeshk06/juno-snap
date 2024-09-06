@@ -1,0 +1,4 @@
+chassis_hardware:
+  - command: show chassis hardware
+interface_information:
+  - command: show interface terse
