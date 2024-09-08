@@ -16,9 +16,21 @@
 
 **prequisites** 
 
--  Python3
+-  Python3.8 or later , with pip3 package manager
 -  jsnapy utility installed
 -  prior knowledge of  how to use jsnapy command line tool if we want to  write test cases  for command
+
+**Juno-snap utility installation**
+- git clone https://github.com/sandeshk06/juno-snap.git
+- cd juno-snap
+- sudo pip3 install git+https://github.com/Juniper/jsnapy.git
+- check *https://www.juniper.net/documentation/us/en/software/junos-snapshot/snapshot-python/topics/task/junos-snapshot-administrator-in-python-installation.html* for installation and  os requirement
+- sudo pip3 install -r requirements.text
+- check /etc/jsnapy/jsnapy.cfg  and /etc/jsnapy/logging.yml exist after jsnapy installation
+- check janapy  binary location using below command and update same in  config.ini file
+- which  jsnapy
+- create custom snapshot directory under /opt/jsnapy/snapshots/  or any other location and update location under /etc/jsnapy/jsnapy.cfg file for snapshot
+
 
 ### Some important files to be used by utility 
 
