@@ -29,7 +29,7 @@
 - check /etc/jsnapy/jsnapy.cfg  and /etc/jsnapy/logging.yml exist after jsnapy installation
 - check janapy  binary location using below command and update same in  config.ini file
 - which  jsnapy
-- create custom snapshot directory under /opt/jsnapy/snapshots/  or any other location and update location under /etc/jsnapy/jsnapy.cfg file for snapshot
+- create custom snapshot directory  /opt/jsnapy/snapshots/ or at any other location and update created snap directory location under /etc/jsnapy/jsnapy.cfg file for snapshot
 
 
 ### Some important files to be used by utility 
