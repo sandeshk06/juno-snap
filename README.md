@@ -57,10 +57,10 @@ commands / testcases mentioned in command_config.yaml.
 - **snapshot_status.db:** Tracks snapshot status (0 for not taken, 1 for taken).
 
 ### Pre-snapshot
-<img width="811" alt="Screenshot-pre-snap" src="https://github.com/user-attachments/assets/d9980d35-ff83-404c-b0b1-9057593856e2">
+<img width="811" alt="Screenshot-pre-snap" src="https://github.com/user-attachments/assets/7a781e6e-157c-422d-a087-58cdb5cd69ec">
 
 ### Post-snapshot and diff
-<img width="892" alt="Screenshot-post-snap-diff" src="https://github.com/user-attachments/assets/f68ccb1c-e13b-4591-b7fa-32c1b5cfb66f">
+<img width="892" alt="Screenshot-post-snap-diff" src="https://github.com/user-attachments/assets/802b52f2-854f-478c-9da3-15eca3804bb5">
 
 
 
