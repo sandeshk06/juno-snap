@@ -37,7 +37,7 @@
 **1. config.ini**
 This file will store configurations, including credentials and paths required for the utility to function. Below is a sample structure for config.ini:
   - username and password: Credentials for the network device.
-  - snap_dir: The directory where snapshots will be stored. default is /etc/jsnapy/jsnapy.cfg
+  - snap_dir: The directory where snapshots will be stored. location mentioned under /etc/jsnapy/jsnapy.cfg
   - jsnapy_config_file: Path to the jsnapy configuration file.
   - jsnapy_logging_file: Path to the logging configuration file for jsnapy.
   - jsnapy_bin_file: Location of the jsnapy binary, typically found in the installed Python binaries directory.
