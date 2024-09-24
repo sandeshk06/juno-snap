@@ -33,7 +33,7 @@
 - which  jsnapy
 - create custom snapshot directory  /opt/jsnapy/snapshots/ or at any other location and update created snap directory location under /etc/jsnapy/jsnapy.cfg file for snapshot
 
-## How to run
+**How to run**
 - python3 juno-snap.py
 
 ### Some important files to be used by utility 
