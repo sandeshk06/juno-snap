@@ -2,6 +2,7 @@
 **Juno-Snapy: Junos Device Snapshot Manager**
 
 **Overview:** Juno-Snapy is a powerful snapshot utility designed specifically for managing Junos devices. Built on top of the **Junos JSNAPy framework**, it provides an efficient way to capture and compare device states during network maintenance windows. This utility automates the process of taking pre- and post-maintenance snapshots, ensuring a smooth and reliable way to analyze changes in network device configurations.
+
 **Inspired by:** https://github.com/Juniper/junos-snapshot-administrator
 
 **Key Features:**
@@ -32,6 +33,8 @@
 - which  jsnapy
 - create custom snapshot directory  /opt/jsnapy/snapshots/ or at any other location and update created snap directory location under /etc/jsnapy/jsnapy.cfg file for snapshot
 
+## How to run
+- python3 juno-snap.py
 
 ### Some important files to be used by utility 
 
